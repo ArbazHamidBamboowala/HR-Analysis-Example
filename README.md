@@ -14,3 +14,4 @@ When it came to data management, I chose Power BI over Excel for its efficiency.
 Analyzing data has always been a passion of mine.
 
 The ability to derive meaningful insights and translate them into actionable strategies is a valuable asset in today's data-driven landscape.
+This project was analyzed in October 2023.
